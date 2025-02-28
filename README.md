@@ -1,1 +1,1 @@
-# Data Algorithms and Structures Projects
+# Data Algorithms and Structures
